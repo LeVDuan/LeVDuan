@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-[![LeVDuan's github stats](https://github-readme-stats.vercel.app/api?username=LeVDuan&show_icons=true&theme=merko)](https://github.com/LeVDuan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeVDuan&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  [![LeVDuan's github stats](https://github-readme-stats.vercel.app/api?username=LeVDuan&show_icons=true&theme=merko)](https://github.com/LeVDuan)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeVDuan&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+</div>
