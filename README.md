@@ -16,15 +16,6 @@
     </div>
 </div>
 
-
-<h1 align="right">Github Stats 📈</h1>
-<br>
-<div align="right">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeVDuan&layout=compact&theme=noctis_minimus"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=LeVDuan&show_icons=true&theme=noctis_minimus" />
-</div>
-<br>
-
 <h1 align="right">Contact me📧</h1>
 <br>
 <div align="right">
